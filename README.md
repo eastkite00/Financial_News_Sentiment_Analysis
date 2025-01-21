@@ -1,6 +1,6 @@
 # Financial News Sentiment Analysis
 
-## Description
+## Project Overview
 
 The Financial News Sentiment Analysis project aims to investigate the predictive power of sentiment analysis on financial news articles in forecasting stock price movements.
 By analyzing sentiment scores derived from financial news, this project seeks to provide insights into the correlation between market sentiment and stock price fluctuations.
@@ -33,8 +33,11 @@ Follow these steps to use the project (refer to Financial_News_Sentiment_Analysi
 ## Example
 finviz.csv and news_2024-07-27_to_2024-07-28.numbers are example output files used in Financial_News_Sentiment_Analysis.md for model evaluation
 
+## Results
+
+
 ## Acknowledgments
-Dr. Kaamran Raahemifar 
+Dr. Kaamran Raahemifar for guidance
 kraahemi@psu.edu
 
 ## Contact Information
@@ -43,4 +46,4 @@ For any questions or suggestions, please contact the project maintainer:
 
 - [Dongyeon Kang](mailto:danny379k@gmail.com)
 
-You can also create an issue on the [IST495](https://github.com/eastkite00/IST495/issues).
+You can also create an issue on the [Financial_News_Sentiment_Analysis][(https://github.com/eastkite00/Financial_News_Sentiment_Analysis/issues)].
