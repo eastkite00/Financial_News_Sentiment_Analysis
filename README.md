@@ -40,8 +40,7 @@ Follow these steps to use the project (refer to Financial_News_Sentiment_Analysi
 This project analyzed the impact of financial news sentiment on stock price movements using sentiment analysis models, including FinBERT, FinVader, and NLTK's Sentiment Intensity Analyzer. FinBERT, tailored for financial text, demonstrated superior performance in capturing domain-specific sentiment, while the other models provided broader insights. Sentiment scores moderately correlated with stock price changes, highlighting their predictive potential. Challenges included data preprocessing, aligning sentiment scores with stock prices, and addressing API and tokenization constraints. Overall, the project underscored the value of sentiment analysis in enhancing financial market strategies and revealed areas for further improvement in model integration.
 
 ## Acknowledgments
-Dr. Kaamran Raahemifar for guidance
-kraahemi@psu.edu
+Guidance: [Dr. Kaamran Raahemifar] (mailto:kraahemi@psu.edu)
 
 ## Contact Information
 
