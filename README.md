@@ -48,4 +48,4 @@ For any questions or suggestions, please contact the project maintainer:
 
 - [Dongyeon Kang](mailto:danny379k@gmail.com)
 
-You can also create an issue on the [Financial_News_Sentiment_Analysis](https://github.com/eastkite00/Financial_News_Sentiment_Analysis/issues).
+You can also create an issue on the [Issues](https://github.com/eastkite00/Financial_News_Sentiment_Analysis/issues).
