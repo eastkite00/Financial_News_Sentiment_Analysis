@@ -46,6 +46,6 @@ Guidance: [Dr. Kaamran Raahemifar](https://ist.psu.edu/directory/kvr5517)
 
 For any questions or suggestions, please contact the project maintainer:
 
-- [Dongyeon Kang](mailto:kangdy@umich.edu)
+- [Dongyeon Kang](https://www.linkedin.com/in/dongyeon-kang-3b0a92245/)
 
 You can also create an issue on the [Issues](https://github.com/eastkite00/Financial_News_Sentiment_Analysis/issues).
